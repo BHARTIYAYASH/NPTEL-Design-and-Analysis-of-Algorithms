@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # Prisoner Escape
 **(Baltic Olympiad in Informatics, 2009)**
+=======
+**# Prisoner Escape #**
+(Baltic Olympiad in Informatics, 2009)
+>>>>>>> dc3dd3b028d32596534b51d0c696de041aab582c
 
 ## Problem Statement
 A group of war prisoners are trying to escape from a prison. They have thoroughly planned the escape from the prison itself, and after that, they hope to find shelter in a nearby village. However, the village (marked as B) and the prison (marked as A) are separated by a canyon, which is also guarded by soldiers. These soldiers sit in their pickets and rarely move. The range of view of each soldier is limited to exactly **100 meters**. Depending on the locations of soldiers, it may be possible to pass the canyon safely, keeping the distance to the closest soldier strictly larger than 100 meters at any moment.
@@ -58,6 +63,7 @@ Constraints:
 250 300
 100 150
 400 150
+<<<<<<< HEAD
 ```
 ### **Output 2**
 ```
@@ -67,3 +73,7 @@ Constraints:
 ---
 
 
+=======
+Sample output 2
+0
+>>>>>>> dc3dd3b028d32596534b51d0c696de041aab582c
